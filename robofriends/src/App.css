@@ -1,0 +1,11 @@
+
+@font-face {
+	font-family: Stella;
+	src:url('Stella Demo.ttf');
+}
+
+h1 {
+	font-family: Stella;
+	color: #0ccac4;
+	font-size: 100px;
+}
