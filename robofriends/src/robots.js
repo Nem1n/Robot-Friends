@@ -47,4 +47,17 @@ export const robots = [
   	username:'Soso',
   	email:'sos@gmail.com'
   },
+  {
+	id:9,
+	name:'Charlotte Gosse',
+	username:'Cha',
+	email:'chacha@gmail.com'
+  },
+  
+  {
+	id:10,
+	name:'Camille Fouquet',
+	username:'Cami',
+	email:'cami@gmail.com'
+  },
 ];
